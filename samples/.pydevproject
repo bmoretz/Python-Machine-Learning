@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/${PROJECT_DIR_NAME}</path>
+<path>/${PROJECT_DIR_NAME}/ch02</path>
+<path>/${PROJECT_DIR_NAME}/ch03</path>
+<path>/${PROJECT_DIR_NAME}/ch04</path>
+<path>/${PROJECT_DIR_NAME}/ch05</path>
+<path>/${PROJECT_DIR_NAME}/ch06</path>
+<path>/${PROJECT_DIR_NAME}/ch07</path>
+<path>/${PROJECT_DIR_NAME}/ch08</path>
+<path>/${PROJECT_DIR_NAME}/ch09</path>
+<path>/${PROJECT_DIR_NAME}/ch10</path>
+<path>/${PROJECT_DIR_NAME}/ch11</path>
+</pydev_pathproperty>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 3.6</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+</pydev_project>
